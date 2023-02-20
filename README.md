@@ -1,6 +1,6 @@
-## \> CODEPAD
+## CODEPAD
 
-\>CODEPAD is a web application that allows users to enter and delete notes for their app or website ideas along with some text for each idea.
+CODEPAD is a web application that allows users to enter and delete notes for their app or website ideas along with some text for each idea.
 The application is built using HTML, CSS, JS, Node, Express and UUID.
 
 ## Features
@@ -24,7 +24,9 @@ To use the application, follow these steps:
  - To delete a note, click on the "Trash" icon.
 
 ## CONTACT
-GitHub: 
-Website:
+GitHub: [PROFILE](https://github.com/lbako801)
+Website: [WEBSITE](https://lorenbako.com/)
 
 ## Screenshots
+![landing-Sshot](https://user-images.githubusercontent.com/112914389/220000652-efb3c62c-79a8-42e4-ae15-c082ddc39433.jpg)
+![notes-Sshot](https://user-images.githubusercontent.com/112914389/220000658-4b390a61-e463-45a9-b03c-3371a9222725.jpg)
