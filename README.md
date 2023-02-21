@@ -13,8 +13,8 @@ Random UUID is assigned to each note.
 ## Installation
 To install the application, follow these steps:
  - Clone the repository to your local machine.
- - Install the dependencies using npm install.
- - Run the application using npm start.
+ - Install the dependencies using ```npm install```.
+ - Run the application using ```npm start```.
 
 ## Usage
 
